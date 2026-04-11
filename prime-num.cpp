@@ -1,4 +1,4 @@
-// finf if number is prime or not 
+// find if number is prime or not 
 #include <iostream> 
 using namespace std; 
 
