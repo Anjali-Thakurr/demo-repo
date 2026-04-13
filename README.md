@@ -1,4 +1,4 @@
-# demo-repo
+# Learning Coding
 this is my first repository <br>
 Author- Anjali Thakur
 Age : 20
