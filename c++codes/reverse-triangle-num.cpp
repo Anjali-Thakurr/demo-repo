@@ -1,4 +1,4 @@
-// reverse triangle pattern
+// reverse number triangle pattern
 #include <iostream> 
 using namespace std; 
 

@@ -1,4 +1,4 @@
-// 
+// Inverted number triangle 
 #include <iostream> 
 using namespace std; 
 

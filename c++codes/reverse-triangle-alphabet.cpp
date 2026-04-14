@@ -1,4 +1,4 @@
-// 
+// Reverse alphabet triangle
 #include <iostream> 
 using namespace std; 
 
